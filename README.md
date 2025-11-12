@@ -1,17 +1,21 @@
-# untitled
+# 🧩 Flutter Web Project
 
-A new Flutter project.
+A modern Flutter web application built using **Flutter 3.35.4**.  
+This project follows a clean architecture and is compatible with desktop browsers (Chrome, Edge, Firefox, Safari).
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Getting Started
 
-A few resources to get you started if this is your first Flutter project:
+### 1️⃣ Prerequisites
+Before running the project, make sure you have the following installed:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter SDK 3.35.4**
+- **Dart 3.3+**
+- **Git** (for version control)
+- **VS Code** or **Android Studio** (recommended IDEs)
+- **Chrome** browser (for Flutter web preview)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# dashboard_flutter_web
+You can verify your Flutter setup by running:
+```bash
+flutter doctor
